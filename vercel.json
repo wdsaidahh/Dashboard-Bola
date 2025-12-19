@@ -1,0 +1,8 @@
+{
+  "crons": [
+    {
+      "path": "/api/prediksi",
+      "schedule": "0 6 * * *" 
+    }
+  ]
+}
